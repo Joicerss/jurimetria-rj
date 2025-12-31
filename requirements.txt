@@ -1,0 +1,11 @@
+# Dependências do Projeto Jurimetria RJ
+# Instale com: pip install -r requirements.txt
+
+# Automação de navegador
+playwright>=1.40.0
+
+# Manipulação de dados
+pandas>=2.0.0
+
+# Exportação para Excel
+openpyxl>=3.1.0

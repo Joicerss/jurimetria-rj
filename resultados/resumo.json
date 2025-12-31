@@ -1,0 +1,22 @@
+{
+  "total_processos": 1,
+  "extraidos_sucesso": 1,
+  "questoes": {
+    "Q1_bancos_veiculos": {
+      "sim": 1,
+      "percentual": "100.0%"
+    },
+    "Q3_garantias": {
+      "sim": 0,
+      "percentual": "0.0%"
+    },
+    "Q4_essencialidade": {
+      "sim": 0,
+      "percentual": "0.0%"
+    },
+    "Q11_stay_period": {
+      "ativo": 0,
+      "percentual": "0.0%"
+    }
+  }
+}
